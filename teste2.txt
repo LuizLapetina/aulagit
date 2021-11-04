@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Este é um teste para ver o que acontece
+=======
+ddddd
+xxxxx
+>>>>>>> a04e05da0f9c5ee72d26ec4a133511cd12904b5d
+bla bla bla
